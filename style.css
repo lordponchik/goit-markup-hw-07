@@ -502,9 +502,11 @@ img {
   padding: 15px 16px;
   border: 1px solid var(--mailing-border-color);
   margin-right: 12px;
-
   box-sizing: border-box;
+
   border-radius: 4px;
+  background-color: transparent;
+  color: var(--white-color);
 
   transition: border var(--transition-duration) var(--transition-timing-function);
 }
@@ -794,8 +796,10 @@ img {
 
   transition: border var(--transition-duration) var(--transition-timing-function);
 }
-.agreement-field:hover .agreement-check,
-.agreement-field:focus .agreement-check {
+.checkbox:focus ~ .agreement-check {
+  border-color: var(--accent-color);
+}
+.agreement-field:hover .agreement-check {
   border-color: var(--accent-color);
 }
 .agreement-icon {
