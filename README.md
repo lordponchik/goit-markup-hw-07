@@ -19,7 +19,7 @@
 
  ## Project file structure
 
-![Project file structure](./07-preview.png)
+![Project file structure](./preview.svg)
 
 ## Eligibility criteria for a mentor
 
@@ -72,7 +72,7 @@
 
 ## Структура файлів проекту
 
-![Структура файлів проекту](./07-preview.png)
+![Структура файлів проекту](./preview.svg)
 
 ## Критерії прийому роботи наставником
 
@@ -125,7 +125,7 @@
 
 ## Структура файлов проекта
 
-![Структура файлов проекта](./07-preview.png)
+![Структура файлов проекта](./preview.svg)
 
 ## Критерии приёма работы наставником
 
